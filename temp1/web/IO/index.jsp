@@ -13,6 +13,7 @@
 </head>
 <body>
 <%
+<%--    将项目目录下的A.txt文件内容复制到B.txt--%>
     request.setCharacterEncoding("UTF-8");
     response.setContentType("text/html;charset=UTF-8");
     try {
