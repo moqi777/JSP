@@ -14,6 +14,7 @@ import java.io.IOException;
  * @desc:
  * @DateTime:2024/3/29 11:02
  **/
+@WebServlet("/output")
 public class OutputServlet extends HttpServlet {
     @Override
     public void init() throws ServletException {
