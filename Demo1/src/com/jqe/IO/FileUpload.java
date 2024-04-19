@@ -72,7 +72,7 @@ public class FileUpload extends HttpServlet {
                     //生成随机uuid
                     String uuid = UUID.randomUUID().toString();
                     //将用户名拼接到uuid前面
-                    String usernameUuid = username+"/"+uuid;
+                    String usernameUuid = username+"_"+uuid;
                     //拼接新地址
                     name = fileDir + "\\" + usernameUuid+suffix;
 
