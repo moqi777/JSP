@@ -54,12 +54,15 @@ public class FileUpload extends HttpServlet {
         try {
             //parseRequest解析req请求中的数据
             fileItemList = servletFileUpload.parseRequest(req);
+            //用户名
+            String username = "";
             //遍历
             for (FileItem fileItem:fileItemList){
                 //判断是否为普通字段
                 if (fileItem.isFormField()){
                     //username:莫七
-                    resp.getWriter().print(fileItem.getFieldName()+":"+fileItem.getString("utf-8")+"<br>");
+                    username = fileItem.getString("utf-8");
+                    resp.getWriter().print(fileItem.getFieldName()+":"+username+"<br>");
                 }else {
                     //不是 那就是文件类型的字段
                     //文件名
@@ -68,8 +71,10 @@ public class FileUpload extends HttpServlet {
                     String suffix = name.substring(name.lastIndexOf("."));
                     //生成随机uuid
                     String uuid = UUID.randomUUID().toString();
+                    //将用户名拼接到uuid前面
+                    String usernameUuid = username+"/"+uuid;
                     //拼接新地址
-                    name = fileDir + "\\" + uuid+suffix;
+                    name = fileDir + "\\" + usernameUuid+suffix;
 
                     //临时文件
                     File file = new File(name);

@@ -7,40 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c85e20f-161d-4762-890a-ea20b668018e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Demo1_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_fileupload_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Demo1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Demo2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/IO/fileUpDown.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/IO/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/javaBean/person.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/javaBean/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/javaBean/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login/checklogin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/resp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/resp/receive.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/servlet/hello.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/servlet/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/servlet/random.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../temp1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/out/artifacts/temp1_war_exploded/IO/fileUp.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/out/artifacts/temp1_war_exploded/IO/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../temp1/out/artifacts/temp1_war_exploded/IO/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/out/artifacts/temp1_war_exploded/WEB-INF/classes/com/jqe/servlet/OutputServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp1/out/artifacts/temp1_war_exploded/WEB-INF/classes/com/jqe/servlet/OutputServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/out/artifacts/temp1_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../temp1/out/artifacts/temp1_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/out/production/temp1/com/jqe/servlet/OutputServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../temp1/out/production/temp1/com/jqe/servlet/OutputServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/src/com/jqe/IO/FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/../temp1/src/com/jqe/IO/FileUpload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/src/com/jqe/servlet/OutputServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../temp1/src/com/jqe/servlet/OutputServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp1/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../temp1/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_3298e3fa_1b63_4d61_9ef1_85326b0b920b_00000001.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_5661ba2e_3e62_4de9_84ee_1c658575ac88_00000001.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_6f6325cb_1adc_480c_adde_ff7f90152276_00000001.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_6f6325cb_1adc_480c_adde_ff7f90152276_00000003.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_6f6325cb_1adc_480c_adde_ff7f90152276_00000005.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_6f6325cb_1adc_480c_adde_ff7f90152276_00000007.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_ccf40d15_404d_48d1_8112_9682a1709be0_00000001.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_ff102bfd_3a35_4a2a_8ece_fbb7414b6199_00000001.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jqe/IO/FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jqe/IO/FileUpload.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jqe/IO/FileUpload.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="74" column="47" lean-forward="true" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+            <state relative-caret-position="389">
+              <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,9 +141,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
-    <option name="y" value="3" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="887" />
+    <option name="y" value="25" />
     <option name="width" value="976" />
     <option name="height" value="1047" />
   </component>
@@ -205,6 +181,14 @@
             <path>
               <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo1_war_exploded" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -231,6 +215,12 @@
               <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Demo1" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="IO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
@@ -290,15 +280,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -499,17 +489,18 @@
       <workItem from="1713446966509" duration="423000" />
       <workItem from="1713447445233" duration="3205000" />
       <workItem from="1713450706233" duration="1525000" />
+      <workItem from="1713524361198" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5153000" />
+    <option name="totallyTimeSpent" value="5787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -623,6 +614,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jqe/servlet/OutputServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -643,17 +641,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jqe/IO/FileUpload.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="74" column="47" lean-forward="true" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+        <state relative-caret-position="389">
+          <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
