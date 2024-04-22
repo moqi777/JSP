@@ -22,5 +22,6 @@
     <orderEntry type="library" exported="" name="lib" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 8.5.41" level="application_server_libraries" />
     <orderEntry type="library" name="commons-fileupload-1.3.2" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.47" level="project" />
   </component>
 </module>
