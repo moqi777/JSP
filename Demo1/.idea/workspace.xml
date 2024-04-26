@@ -7,7 +7,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c85e20f-161d-4762-890a-ea20b668018e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_47__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_21__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/WEB-INF/classes/com/jqe/DriverConn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/WEB-INF/classes/com/jqe/IO/FileDownload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_04820693_0e55_490b_873e_3678f728b4fd_00000001.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_04820693_0e55_490b_873e_3678f728b4fd_00000003.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_04820693_0e55_490b_873e_3678f728b4fd_00000005.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/upload_26a48763_fd29_43b7_939f_a53ffb1e103e_00000001.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/img/莫七_4e4ad717-4782-4358-874e-bc62ecc37d5c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/jdbc/AddScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/jdbc/DriveConn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo1_war_exploded/jdbc/Select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo1/com/jqe/DriverConn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo1/com/jqe/IO/FileDownload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jqe/DriverConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jqe/IO/FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jdbc/AddScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jdbc/DriveConn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jdbc/Select.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo1.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,26 +89,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/jdbc/DriveConn.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="594">
               <caret line="22" selection-start-line="22" selection-end-line="29" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/jdbc/AddScore.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="66" column="24" lean-forward="true" selection-end-line="75" />
+            <state relative-caret-position="289">
+              <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/jdbc/Select.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="32" column="33" selection-end-line="46" />
+            <state relative-caret-position="356">
+              <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -138,8 +159,8 @@
         <option value="$PROJECT_DIR$/src/com/jqe/IO/FileDownload.java" />
         <option value="$PROJECT_DIR$/src/com/jqe/DriverConn.java" />
         <option value="$PROJECT_DIR$/web/jdbc/DriveConn.jsp" />
-        <option value="$PROJECT_DIR$/web/jdbc/AddScore.jsp" />
         <option value="$PROJECT_DIR$/web/jdbc/Select.jsp" />
+        <option value="$PROJECT_DIR$/web/jdbc/AddScore.jsp" />
       </list>
     </option>
   </component>
@@ -161,7 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,18 +209,20 @@
             </path>
             <path>
               <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Tomcat 8.5.41" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,7 +442,8 @@
       <workItem from="1713772577772" duration="5949000" />
       <workItem from="1713945468712" duration="2659000" />
       <workItem from="1713949083629" duration="655000" />
-      <workItem from="1713953448210" duration="5743000" />
+      <workItem from="1713953448210" duration="5908000" />
+      <workItem from="1713970038941" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="新增了文件下载功能">
       <created>1713534773846</created>
@@ -435,11 +459,18 @@
       <option name="project" value="LOCAL" />
       <updated>1713779860093</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新增了jdbc学生信息查询案例">
+      <created>1713969720720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713969720720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25545000" />
+    <option name="totallyTimeSpent" value="25995000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,9 +483,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17004265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -464,7 +494,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25813448" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26030368" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2657267" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -494,7 +524,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增了文件下载功能" />
     <MESSAGE value="新增了jdbc联系" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增了jdbc联系" />
+    <MESSAGE value="新增了jdbc学生信息查询案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增了jdbc学生信息查询案例" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/Uuid.java" />
@@ -632,6 +663,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/jdbc/DriveConn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" selection-start-line="22" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/IO/fileUpDown.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -649,24 +687,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/jdbc/DriveConn.jsp">
+    <entry file="file://$PROJECT_DIR$/web/jdbc/Select.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" selection-start-line="22" selection-end-line="29" selection-end-column="61" />
+        <state relative-caret-position="356">
+          <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/jdbc/AddScore.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="66" column="24" lean-forward="true" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jdbc/Select.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="32" column="33" selection-end-line="46" />
+        <state relative-caret-position="289">
+          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
         </state>
       </provider>
     </entry>
