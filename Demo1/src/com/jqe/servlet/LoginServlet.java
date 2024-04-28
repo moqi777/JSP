@@ -19,14 +19,14 @@ public class LoginServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         req.setCharacterEncoding("utf-8");
-        resp.setContentType("text/html;charset=utf-8");
+            resp.setContentType("text/html;charset=utf-8");
 
-        String name = req.getParameter("name");
-        String password = req.getParameter("password");
-        if (name.equals("莫七")&&password.equals("123123")){
-            resp.sendRedirect("/servlet/hello.jsp?name="+name);
-        }else {
-            resp.sendRedirect("/servlet/login.jsp?trem=0");
+            String name = req.getParameter("name");
+            String password = req.getParameter("password");
+            if (name.equals("莫七")&&password.equals("123123")){
+                resp.sendRedirect("/servlet/hello.jsp?name="+name);
+            }else {
+                resp.sendRedirect("/servlet/login.jsp?trem=0");
         }
     }
 
