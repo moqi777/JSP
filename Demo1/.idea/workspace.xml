@@ -6,16 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c85e20f-161d-4762-890a-ea20b668018e" name="Default Changelist" comment="">
+    <list default="true" id="2c85e20f-161d-4762-890a-ea20b668018e" name="Default Changelist" comment="新增了jdbc学生信息查询案例">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo1/com/jqe/DriverConn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo1/com/jqe/IO/FileDownload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo1/com/jqe/IO/FileUpload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo1/com/jqe/bean/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo1/com/jqe/servlet/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo1/com/jqe/servlet/OutputServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo1/test/Demo1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jqe/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jqe/servlet/LoginServlet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -95,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jqe/servlet/LoginServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="378">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -478,7 +470,9 @@
       <workItem from="1713953448210" duration="5908000" />
       <workItem from="1713970038941" duration="285000" />
       <workItem from="1714120153713" duration="650000" />
-      <workItem from="1714291095591" duration="2469000" />
+      <workItem from="1714291095591" duration="2821000" />
+      <workItem from="1714377441029" duration="1414000" />
+      <workItem from="1714381998127" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="新增了文件下载功能">
       <created>1713534773846</created>
@@ -505,7 +499,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29114000" />
+    <option name="totallyTimeSpent" value="30902000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -517,10 +511,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -536,7 +530,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32968238" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286334" />
@@ -732,8 +726,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jqe/servlet/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="378">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
