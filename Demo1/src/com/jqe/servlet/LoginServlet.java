@@ -27,7 +27,6 @@ public class LoginServlet extends HttpServlet {
                 resp.sendRedirect("/servlet/hello.jsp?name="+name);
             }else {
                 resp.sendRedirect("/servlet/login.jsp?trem=0");
-
         }
     }
 
