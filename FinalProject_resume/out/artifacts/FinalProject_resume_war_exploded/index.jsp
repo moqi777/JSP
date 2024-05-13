@@ -40,7 +40,7 @@
       教育背景：<%=resume.getSchool()%><br><br>
       工作经验：<%=resume.getWork()%><br><br>
       技能特长：<%=resume.getSkill()%><br><br>
-      <h1>简历提交成功</h1>
+      <h1>简历提交成功!!!</h1>
       <button type="button" onclick="window.location.href='index.jsp'">重新提交简历</button>
       <%
         }
